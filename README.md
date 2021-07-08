@@ -1,2 +1,0 @@
-# FurnitureSales
-My first repository 
